@@ -10,7 +10,7 @@ Spark Funds has outlined two key constraints for investments:
 1. Investment between 5 to 15 million USD per round.
 2. Investments limited to English-speaking countries.
 
-For a country to be considered English speaking, English must be one of its official languages. A list of such countries is available [https://github.com/HarishKathi/CRISP-DM-Data-Science/blob/main/Data/companies.txt](link-to-list-of-countries).
+For a country to be considered English speaking, English must be one of its official languages. A list of such countries is available [https://github.com/HarishKathi/CRISP-DM-Data-Science/Data/companies.txt](link-to-list-of-countries).
 
 ## Business Objectives:
 
